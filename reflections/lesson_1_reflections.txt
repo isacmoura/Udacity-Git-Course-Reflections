@@ -1,0 +1,45 @@
+- Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que
+foi introduzido?
+
+Através da comparação do código atual com o código antigo, visualizando as diferenças entre
+as versões do mesmo arquivo, podemos identificar onde foi alterado e como este bug pode ter
+surgido.
+
+- Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais
+eficiente no longo prazo?
+
+Porque através deste acesso facilitado ao histórico de versões o programador pode facilmente
+retornar a uma versão anterior do arquivo, sem ter que precisar reescrevê-lo manualmente.
+
+- Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit,
+como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+Prós: Salvar alterações que tenham uma importância considerável para o sistema, ao invés de Salvar
+toda e qualquer alteração, o que prejudicaria posteriormente na reportagem de um bug.
+Contras: Muitas funcionalidades podem ser feitas num só commit, o que prejudicaria no momento
+de encontrar um bug.
+
+- Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar
+vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo
+separadamente?
+
+Porque uma funcionalidade em programação pode envolver mais de um arquivo, que estão
+interligados, portanto não seria interessante ter um commit para cada arquivo seguindo o
+conceito de commit por alteração lógica.
+
+- Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+O comando git log mostra o histórico de commits feitos no diretório, enquanto o git diff
+mostra as alterações realizadas de um commit para outro.
+
+- De que modo o controle de versão pode dar a você mais segurança para fazer alterações que
+podem danificar algo?
+
+Porque através do controle de versão é possível retornar a commits feitos e verificar onde o
+erro foi originado e corrigí-lo, assim, há uma sensação de segurança ao fazer alterações no
+código pois há sempre a possibilidade de voltar para a versão que estava funcionando.
+
+- Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+Para organizar melhor meus projetos, criar um portfólio e compartilhar código de maneira
+fácil

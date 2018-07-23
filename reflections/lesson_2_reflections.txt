@@ -1,0 +1,13 @@
+- O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+Uma pasta oculta .git é adicionada ao repositório. Para indicar ao git que aquele repositório
+será um repositório git
+
+- Em que se difere a área de preparação do diretório de trabalho e do repositório?
+Qual valor você acha que ela oferece?
+
+A área de preparação do diretório de trabalho inclue os arquivos que serão rastreados pelo git,
+enquanto a área do repositório inclue os arquivos que não estão sendo monitorados. Isso
+oferece uma possibilidade de rastrear mudanças em commits de funcionalidades do sistema
+que podem sofrer com bugs posteriormente.
+

@@ -2,3 +2,7 @@
 
 Quando necessito compartilhar meu código do projeto com outros colaboradores do projeto ou mesmo criar um backup remoto
 do projeto.
+
+- Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+
+Porque é possível que algumas alterações locais ainda estejam em fase de experimento ou não devem ir para o repositório remoto.

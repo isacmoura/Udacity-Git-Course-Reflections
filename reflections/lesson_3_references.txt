@@ -18,3 +18,7 @@ Verificar facilmente se houveram alterações nos arquivos remotos.
 - Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 
 Faria do método tradicional (do modo que fazia antes de conhecer Git ou GitHub): enviar o zip do projeto por e-mail, o colaborador fazer as alterações nos arquivos e enviar as alterações por e-mail, eu verificaria as alterações dele e as minhas e atualizaria meu projeto. Seria mais fácil a inexistência de tantos comandos para fazer alterações e o mais difícil seria a manutenção do projeto, pois teria um momento em que o repositório ficaria muito grande e complexo para ser enviado por e-mail, além das alterações de código que não seriam tão bem analisadas.
+
+- Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+Quando estou trabalhando em uma funcionalidade experimental, que não pode ser integrada ao branch master no momento. Trabalhar em um branch separado permite uma melhor abordagem a bugs antes da funcionalidade ser integrada ao branch master e trabalhar no master gera um menor trabalho de integração dos branches.

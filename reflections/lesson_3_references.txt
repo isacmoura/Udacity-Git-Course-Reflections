@@ -15,3 +15,6 @@ Bifurcações (forks) é o processo de criar uma cópia, remotamente, de um repo
 
 Verificar facilmente se houveram alterações nos arquivos remotos.
 
+- Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+Faria do método tradicional (do modo que fazia antes de conhecer Git ou GitHub): enviar o zip do projeto por e-mail, o colaborador fazer as alterações nos arquivos e enviar as alterações por e-mail, eu verificaria as alterações dele e as minhas e atualizaria meu projeto. Seria mais fácil a inexistência de tantos comandos para fazer alterações e o mais difícil seria a manutenção do projeto, pois teria um momento em que o repositório ficaria muito grande e complexo para ser enviado por e-mail, além das alterações de código que não seriam tão bem analisadas.

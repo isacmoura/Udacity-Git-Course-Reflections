@@ -10,3 +10,8 @@ Porque é possível que algumas alterações locais ainda estejam em fase de exp
 - Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 
 Bifurcações (forks) é o processo de criar uma cópia, remotamente, de um repositório também remoto no GitHub para assim implementar as próprias alterações. Clones são cópias assim como os forks, porém estes não dão créditos ao criador do projeto ao qual está sendo clonado. Os clones copiam o diretório remoto para o diretório local. Branches são galhos ou ramos usados para testar ou implementar funcionalidades distintas no mesmo projeto. Fork - quando quero ter remotamente uma cópia de um projeto de outro desenvolvedor e fazer minhas próprias alterações, clone quando quero copiar um repositório remoto para minha máquina e branch quando quero testar alguma nova funcionalidade e manter o projeto funcionando simultaneamente.
+
+- Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
+Verificar facilmente se houveram alterações nos arquivos remotos.
+
